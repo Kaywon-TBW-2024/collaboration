@@ -38,24 +38,22 @@ relay.md 를 열어 공동 집필하세요.
 
 6. vscode 에서 open Folder를 사용해 해당 폴더를 엽니다. 
 
-7. ※한 문장 이상을 추가합니다※
+7. `git branch` : 현재 branch main 인지 확인
 
-8. `git branch` : 현재 branch main 인지 확인
-
-9. 브랜치 만들기
+8. 브랜치 만들기
 
     a. `git branch branchName` : 자기 branch 만들기
 
     b. `git checkout branchName` : 자기 branch 로 이동
 
-10. [relay.md](https://github.com/Kaywon-TBW-2024/collaboration/blob/main/relay.md) 를 열어 내용 추가하기 
+9. [relay.md](https://github.com/Kaywon-TBW-2024/collaboration/blob/main/relay.md) 를 열어 내용 추가하기 
 
-11. 중간에 변경된 내용 있는지 체크
+10. 중간에 변경된 내용 있는지 체크
 
     a. (`git fetch` / `git merge origin/main`)
     or `git pull origin <branch-name>` 
 
-12. github repo 에 올리기
+11. github repo 에 올리기
 
     a. `git add .`
     
